@@ -11,12 +11,12 @@ Some modifications to make the code works.
 ## Result
 * Learning curves  
   (x-axis: iterations)  
-  Loss  
-  <img src="lr curves/loss_train.png" width="30%" />
-  <img src="lr curves/loss_val.png" width="30%" />  
-  Perplexity  
-  <img src="lr curves/perplexity_train.png" width="30%" />
-  <img src="lr curves/perplexity_val.png" width="30%" />
+  * Loss  
+    <img src="lr curves/loss_train.png" width="30%" />
+    <img src="lr curves/loss_val.png" width="30%" />  
+  * Perplexity  
+    <img src="lr curves/perplexity_train.png" width="30%" />
+    <img src="lr curves/perplexity_val.png" width="30%" />
 * BLEU score
   ```
   Corpus BLEU: 19.959350420896126
