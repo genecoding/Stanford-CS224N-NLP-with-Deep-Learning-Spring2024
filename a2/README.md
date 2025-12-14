@@ -2,9 +2,17 @@
 * Brief [instructions] for [Assignment2].
 * For detailed executions, see [assignment2.ipynb].
 
-## Note
-
 ## Result
+```
+================================================================================
+TESTING
+================================================================================
+Restoring the best model weights found on the dev set
+Final evaluation on test set
+2919736it [00:00, 58162640.98it/s]
+- test UAS: 89.14
+Done!
+```
 
 
 
