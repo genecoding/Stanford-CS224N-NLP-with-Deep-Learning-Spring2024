@@ -6,7 +6,7 @@
 Some modifications to make the code works.
 * In `beam_search_diagnostics.py`, comment out the line `"u": os.getlogin()`.
 * In `utils.py`, use `nltk.download('punkt_tab')` instead of `nltk.download('punkt')`.
-* In `run.py` and `nmt_model.py`, add `weights_only=False` to `torch.load` function calls, see [here] for more details.
+* In `run.py` and `nmt_model.py`, add `weights_only=False` to `torch.load` function call, see [here] for more details.
 
 ## Result
 * Learning curves  
