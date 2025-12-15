@@ -7,6 +7,7 @@ In `attention.py`, use `theta_i = 10000^(-2(i-1)/dim)` instead of `theta_i = 1/1
 
 ## Result
 * Learning curves  
+  (x-axis: iterations)  
   <img src="lr curves/train_loss.png" width="50%" />
 * Accuracy on the dev set
   ```
