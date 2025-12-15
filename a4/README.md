@@ -10,7 +10,7 @@ In `attention.py`, use `theta_i = 10000^(-2(i-1)/dim)` instead of `theta_i = 1/1
   (x-axis: iterations)  
   <img src="lr curves/train_loss.png" width="50%" />
 * Accuracy on the dev set
-  ```python
+  ```
   # without pretraining
   Correct: 9.0 out of 500.0: 1.7999999999999998%
 
