@@ -14,7 +14,7 @@ In `attention.py`, use `theta_i = 10000^(-2(i-1)/dim)` instead of `theta_i = 1/1
   # without pretraining
   Correct: 9.0 out of 500.0: 1.7999999999999998%
 
-  # with pretraining, vinilla position embeddings
+  # with pretraining, vanilla position embeddings
   Correct: 115.0 out of 500.0: 23.0%
 
   # with pretraining, RoPE
