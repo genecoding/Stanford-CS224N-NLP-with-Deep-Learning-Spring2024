@@ -12,6 +12,7 @@ My implementation for the assignments from the course of Stanford, CS224N Natura
 * Assignment 2: Dependency parsing and neural network foundations
 * Assignment 3: Neural Machine Translation with sequence-to-sequence, attention, and subwords
 * Assignment 4: Self-supervised learning and fine-tuning with Transformers
+* Final Project: Default Final Project
 
 
 
