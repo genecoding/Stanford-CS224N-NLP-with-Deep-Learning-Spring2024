@@ -39,7 +39,7 @@ I tried the following extensions:
 * CoSENTLoss / AnglELoss  
   AnglELoss is theoretically superior to CoSENTLoss, but CoSENTLoss performed better in this setting. It is possible that DoRA affects AnglELoss performance. Since these losses operate directly on text embeddings, no task head is required for the similarity task.
 * PCGrad / CAGrad  
-  Performance varied between the two depending on the configuration. CAGrad was ultimately selected.
+  Performance varied between the two depending on the configuration. CAGrad was ultimately adopted.
 * Annealed Sampling  
   Used annealed sampling probabilities as task weights.
 * SMART  
