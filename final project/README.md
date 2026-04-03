@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Multitask BERT
 * Brief [instructions] for [default final project].
 * For detailed executions, see [final_project.ipynb].
 
